@@ -1,6 +1,6 @@
 Project 3 - SQL Data Analysis
 Overview
-
+This project was completed as part of the DecodeLabs Data Analytics Internship Program (Project 3) 
 This project focuses on using SQL queries to extract meaningful insights from an e-commerce dataset. The objective is to analyze business data using SQL operations such as filtering, sorting, grouping, and aggregation.
 
 Objectives
